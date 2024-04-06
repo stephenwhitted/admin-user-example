@@ -1,12 +1,22 @@
 body {
-    background-color: black;
+    background-color: blue;
 }
 p {
-    color: gold;
+    color: skyblue;
 }
 h1 {
-    color: gold
+    color: skyblue;
 }
 section {
-    color: gold
+    color: skyblue;
+}
+div {
+    color: skyblue;
+}
+nav {
+    color: skyblue;
+}
+.carousel-item img {
+    height: 50vh; 
+    object-fit: cover;
 }
